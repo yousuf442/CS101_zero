@@ -1,0 +1,2 @@
+#!/bin/bash
+mv betty.txt /home/yousuf-amr/dir2/betty.txt
